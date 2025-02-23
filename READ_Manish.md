@@ -1,5 +1,3 @@
-# ogm.insy2
-
 # Create New Venv
 manishkumarsaraf@Manishs-MBP-2 OGM.Bots.Streamlit.Project1 % python3.12 -m venv .venv_p312
 # Venv Path:
